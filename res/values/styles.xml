@@ -17,6 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <style name="Theme.GalleryBase" parent="android:Theme.Material">
         <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:navigationBarColor">@*android:color/material_grey_900</item>
         <item name="android:colorPrimaryDark">@color/primaryDark</item>
         <item name="android:colorAccent">@color/accent</item>
         <item name="listPreferredItemHeightSmall">48dp</item>
@@ -29,6 +30,7 @@
         <item name="android:colorPrimary">@color/primary</item>
         <item name="android:colorPrimaryDark">@color/primaryDark</item>
         <item name="android:colorAccent">@color/accent</item>
+        <item name="android:navigationBarColor">@*android:color/material_grey_900</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:colorBackgroundCacheHint">@null</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
@@ -318,6 +320,7 @@
     </style>
 
     <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:navigationBarColor">@*android:color/material_grey_900</item>
         <item name="android:windowDisablePreview">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:windowBackground">@android:color/black</item>

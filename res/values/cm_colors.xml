@@ -15,14 +15,14 @@
 -->
 <resources>
 
-    <color name="primary">#333333</color>
-    <color name="primaryDark">#000000</color>
-    <color name="accent">#33b5e5</color>
+    <color name="primary">@*android:color/material_grey_900</color>
+    <color name="primaryDark">@*android:color/material_grey_900</color>
+    <color name="accent">@*android:color/accent_material_dark</color>
 
     <color name="white">#fafafa</color>
-    <color name="black">#212121</color>
+    <color name="black">@*android:color/material_grey_900</color>
 
-    <color name="light_black">#424242</color>
+    <color name="light_black">@*android:color/material_grey_900</color>
 
     <color name="tab_1">@color/primary</color>
     <color name="tab_2">@color/primary</color>
