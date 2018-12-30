@@ -30,5 +30,5 @@
 
 <vector android:height="24dp" android:viewportHeight="90.0"
     android:viewportWidth="90.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="#FF4F92E9" android:pathData="M3,3L3,87L87,87L87,3L3,3ZM78.99,78.99L11.01,78.99L11.01,11.01L78.99,11.01L78.99,78.99Z"/>
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M3,3L3,87L87,87L87,3L3,3ZM78.99,78.99L11.01,78.99L11.01,11.01L78.99,11.01L78.99,78.99Z"/>
 </vector>

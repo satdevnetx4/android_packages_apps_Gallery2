@@ -20,11 +20,11 @@
     <color name="red">#FF0000</color>
     <color name="blue">#0000FF</color>
     <color name="text_toolbar">@color/white</color>
-    <color name="background_screen">#212121</color>
-    <color name="background_toolbar">#363949</color>
-    <color name="background_main_toolbar">#232323</color>
-    <color name="toolbar_separation_line">#333333</color>
-    <color name="slider_dot_color">#646464</color>
+    <color name="background_screen">@*android:color/material_grey_900</color>
+    <color name="background_toolbar">@*android:color/material_grey_900</color>
+    <color name="background_main_toolbar">@*android:color/material_grey_900</color>
+    <color name="toolbar_separation_line">@*android:color/material_grey_900</color>
+    <color name="slider_dot_color">@*android:color/accent_material_dark</color>
     <color name="slider_line_color">#888888</color>
     <color name="state_panel_separation_line">#232323</color>
     <color name="filtershow_background">#333333</color>
@@ -37,7 +37,7 @@
     <color name="filtershow_stateview_selected_text">@color/black</color>
     <color name="filtershow_categoryview_background">#1a1a1a</color>
     <color name="filtershow_categoryview_text">@color/white</color>
-    <color name="filtershow_category_selection">#4592F9</color>
+    <color name="filtershow_category_selection">@*android:color/accent_material_dark</color>
     <color name="gradcontrol_point_center">@color/white</color>
     <color name="gradcontrol_point_edge">@color/white</color>
     <color name="gradcontrol_graypoint_center">#888888</color>
@@ -67,7 +67,7 @@
     <color name="iconview_bottom_color">#80000000</color>
     <color name="bottom_panel_background_color">#A5000000</color>
     <color name="crop_panel_background_color">#A5000000</color>
-    <color name="crop_text_color">#4f92e9</color>
+    <color name="crop_text_color">@*android:color/accent_material_dark</color>
     <color name="watermark_text_color">#80ffffff</color>
-    <color name="watermark_highlight_color">#4592F9</color>
+    <color name="watermark_highlight_color">@*android:color/accent_material_dark</color>
 </resources>
